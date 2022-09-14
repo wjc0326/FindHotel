@@ -62,7 +62,20 @@ MERN stack hotel reservation app project.
 </div>
 
 ### Admin Page
+<div>
+  <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/admin_page.JPG" alt="admin_page" width="800"> 
+</div>
 
+* Admin can view users, hotels and rooms, delete current ones and add new ones in this admin page. Take users as example:
+
+view and delete current users
+<div>
+  <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/user_page.png" alt="user_page" width="800"> 
+</div>
+add new user
+<div>
+  <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/add_new_user.png" alt="add_new_user" width="800"> 
+</div>
 
 
 ## Installation
