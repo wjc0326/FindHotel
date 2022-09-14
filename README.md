@@ -13,7 +13,7 @@ MERN stack hotel reservation app project.
 ### Sign Up & Log In
 When the user hasn't logged in, the navbar at the top of the page will look like this:
 <div>
-  <img src="https://github.com/wjc0326/FindHotel/blob/main/readme_img/activeaccount_email.png" alt="activate_email" width="500">
+  <img src="https://github.com/Jiacheng-Wei/FindHotel/blob/main/readme_img/login_navbar.png" alt="login_navbar" width="500">
 </div>
 
 
