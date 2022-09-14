@@ -11,24 +11,31 @@ MERN stack hotel reservation app project.
 
 ## How To Use
 ### Sign Up & Log In
-When the user hasn't logged in, the navbar at the top of the page will look like this:
+* When the user hasn't logged in, the navbar at the top of the page will look like this:
 <div>
   <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/login_navbar.png" alt="login_navbar" width="600"> 
 </div>
-By clicking the "Login" button, the user will be directed to the "/login" page:
+
+* By clicking the "Login" button, the user will be directed to the "/login" page (log in with username Ani and password 12345 to test):
 <div>
   <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/login_page.png" alt="login_page" width="300"> 
 </div>
-You can log in with username Ani and password 12345. <br/> After login, the navbar will contain username and Logout button, instead of Register and Login buttons:
+
+
+* After login, the navbar will contain username and Logout button, instead of Register and Login buttons:
 <div>
   <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/logout_navbar.png" alt="logout_navbar" width="600"> 
 </div>
 
 ### HomePage
 <div>
-  <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/homepage.png" alt="homepage" width="600"> 
+  <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/homepage.jpg" alt="homepage" width="800"> 
 </div>
 
+* The lowest part of the header is the search area, where user can enter the location, choose the time range, and change options. After clicking the "Search" button, user will be directed to the "/hotel" page, which is the list of hotels that meet the requirements.
+<div>
+  <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/search.gif" alt="search" width="800"> 
+</div>
 
 
 ## Installation
