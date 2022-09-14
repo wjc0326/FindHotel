@@ -27,7 +27,7 @@ MERN stack hotel reservation app project.
   <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/logout_navbar.png" alt="logout_navbar" width="600"> 
 </div>
 
-### HomePage
+### Home Page
 <div>
   <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/homepage.jpg" alt="homepage" width="800"> 
 </div>
@@ -36,6 +36,9 @@ MERN stack hotel reservation app project.
 <div>
   <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/search.gif" alt="search" width="800"> 
 </div>
+
+### Hotel List Page
+
 
 
 ## Installation
