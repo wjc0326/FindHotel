@@ -40,3 +40,8 @@
   background-color: transparent;
   font-size: 15px;
 }
+
+.navLink {
+  text-decoration: none;
+  color: white;
+}
