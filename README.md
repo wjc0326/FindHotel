@@ -24,6 +24,12 @@ You can log in with username Ani and password 12345. <br/> After login, the navb
   <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/logout_navbar.png" alt="logout_navbar" width="600"> 
 </div>
 
+### HomePage
+<div>
+  <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/homepage.png" alt="homepage" width="600"> 
+</div>
+
+
 
 ## Installation
 
