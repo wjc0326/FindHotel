@@ -62,23 +62,44 @@ MERN stack hotel reservation app project.
 </div>
 
 ### Admin Page
+* User can switch the theme between light mode and dark mode by clicking the moon icon in the navbar
 <div>
   <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/admin_page.JPG" alt="admin_page" width="800"> 
 </div>
 
 * Admin can view users, hotels and rooms, delete current ones and add new ones in this admin page. Take users as example:
 
-view and delete current users
+1. View and delete current users
 <div>
   <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/user_page.png" alt="user_page" width="800"> 
 </div>
-add new user
+
+2. Add new user
 <div>
   <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/add_new_user.png" alt="add_new_user" width="800"> 
 </div>
 
-
 ## Installation
+This project uses [node](http://nodejs.org) and [yarn](https://yarnpkg.com/).
+### Environment variables
+```
+MONGODB_URL=
+JWT_SECRET=
+```
+### Install steps
+```
+$ yarn install
+create .env in api folder and set your environment variables
+$ cd api
+$ yarn start
+open another terminal
+$ cd ..
+if you want to test FindHotel app, cd to client; otherwise, cd to admin to test admin app
+$ cd client/admin
+$ yarn start
+```
 
 ## Future Updates
-custom hooks, and React calendar.
+* Expand the database to make the pages of FindHotel look richer
+* Implement register and logout function
+* Add payment function with [Stripe](https://stripe.com/) and implement cashflow function of admin app
