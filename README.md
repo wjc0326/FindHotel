@@ -94,12 +94,14 @@ $ cd api
 $ yarn start
 open another terminal
 $ cd ..
-if you want to test FindHotel app, cd to client; otherwise, cd to admin to test admin app
+if you want to test FindHotel app, cd to client; otherwise, cd to admin to test anitadmin app
 $ cd client/admin
 $ yarn start
 ```
 
 ## Future Updates
+* Implement the links both at the footer in FindHotel app and at the sidebar in anitadmin app
 * Expand the database to make the pages of FindHotel look richer
 * Implement register and logout function
-* Add payment function with [Stripe](https://stripe.com/) and implement cashflow function of admin app
+* Add payment function with [Stripe](https://stripe.com/) and implement cashflow function of anitadmin app
+* Deploy the websites using Heroku
