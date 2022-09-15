@@ -56,7 +56,7 @@ MERN stack hotel reservation app project.
   <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/window_slide.gif" alt="window_slide" width="800"> 
 </div>
 
-* User can reserve the room by clicking any "Reserve or Book Now!" button. Select room part will show up, where the unavailable rooms (which has been occupied by other users in the chosen time range) will turn grey and not be selected: 
+* User can reserve the room by clicking any "Reserve or Book Now!" button. Select room part will show up, where the unavailable rooms (which has been occupied by other users in the chosen time range) will turn grey and can not be selected by current user: 
 <div>
   <img src="https://github.com/wjc0326/FindHotel/blob/main/readme-img/select_room.png" alt="select_room" width="800"> 
 </div>
@@ -100,8 +100,8 @@ $ yarn start
 ```
 
 ## Future Updates
-* Implement the links both at the footer in FindHotel app and at the sidebar in anitadmin app
 * Expand the database to make the pages of FindHotel look richer
-* Implement register and logout function
+* Implement booking page where user can view all their bookings and make changes.
+* Complete the links both at the footer in FindHotel app and at the sidebar in anitadmin app
 * Add payment function with [Stripe](https://stripe.com/) and implement cashflow function of anitadmin app
 * Deploy the websites using Heroku
