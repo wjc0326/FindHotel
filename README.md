@@ -105,3 +105,7 @@ $ yarn start
 * Complete the links both at the footer in FindHotel app and at the sidebar in anitadmin app
 * Add payment function with [Stripe](https://stripe.com/) and implement cashflow function of anitadmin app
 * Deploy the websites using Heroku
+
+## Reference
+
+* Inspired by Booking.com and modified from the "React Node.js Booking App" project by Lama Dev: https://www.youtube.com/watch?v=k3Vfj-e1Ma4
